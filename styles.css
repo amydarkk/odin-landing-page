@@ -8,6 +8,7 @@ body {
 
 .header {
     display: flex;
+    align-items: center;
     background-color: white;
     margin-top: -10px;
     margin-left: -10px;
@@ -16,13 +17,17 @@ body {
 
 .links {
     margin-left: auto;
-    align-content: center;
+    padding: 20px;
+}
+
+.logo {
+    padding-top: 10px;
 }
 
 .links ul {
     display: flex;
     list-style-type: none;
-    
+    padding-top: 10px;
 }
 
 .links a {
