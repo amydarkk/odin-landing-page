@@ -127,6 +127,10 @@ a.new-products {
     align-items: center;
 }
 
+ul.new-product-block {
+    padding-left: 0px;
+}
+
 .single-product img {
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
